@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-Desenvolvedor com experiência em desenvolvimento e suporte a sistemas, atuando como estagiário de programação e TI no **Consórcio Ótimo de Bilhetagem Eletrônica**. Trabalhei com suporte técnico, manutenção de sistemas e desenvolvimento em Java em ambiente corporativo.
+Desenvolvedor com experiência em desenvolvimento e suporte a sistemas, atuei como estagiário de programação e TI no **Consórcio Ótimo de Bilhetagem Eletrônica**. Trabalhei com suporte técnico, manutenção de sistemas e desenvolvimento em Java em ambiente corporativo.
 
 Formado em Técnico em Informática pelo **COTEMIG** e atualmente cursando **Engenharia de Software na PUC Minas**, com foco em desenvolvimento de software, banco de dados, APIs e boas práticas de engenharia.
 
@@ -51,7 +51,7 @@ Interesse em Back-End, arquitetura de sistemas, APIs REST e sistemas distribuíd
 
 ## 📚 Formação
 
-🎓 **Engenharia de Software** — PUC Minas *(2026 – 2030)*
+🎓 **Engenharia de Software** — PUC Minas *(2026 – 2029)*
 🎓 **Técnico em Informática** — COTEMIG *(2021 – 2023)*
 
 ---
