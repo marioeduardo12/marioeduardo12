@@ -16,7 +16,7 @@ Belo Horizonte, MG · Brasil
 
 Técnico em Informática pelo COTEMIG, cursando Engenharia de Software na PUC Minas.
 
-Atuo como desenvolvedor na Krypton BPO, trabalhando com PHP, Laravel e Node.js no desenvolvimento de aplicações web e APIs REST.
+Atuo como desenvolvedor na Krypton BPO, trabalhando com PHP, Laravel e Javascript no desenvolvimento de aplicações web e APIs REST.
 
 Antes disso, fui Técnico de TI no Consórcio Ótimo de Bilhetagem Eletrônica — dando suporte a usuários, mantendo sistemas e resolvendo problema em ambiente corporativo. Essa vivência construiu a base de resolução de problemas e trabalho em equipe que aplico hoje no desenvolvimento.
 
